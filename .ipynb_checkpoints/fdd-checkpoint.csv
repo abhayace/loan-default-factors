@@ -1,0 +1,17 @@
+,LoanStatNew,Description
+0,acc_now_delinq,The number of accounts on which the borrower is now delinquent.
+1,acc_open_past_24mths,Number of trades opened in past 24 months.
+2,addr_state,The state provided by the borrower in the loan application
+3,all_util,Balance to credit limit on all trades
+4,annual_inc,The self-reported annual income provided by the borrower during registration.
+5,annual_inc_joint,The combined self-reported annual income provided by the co-borrowers during registration
+6,application_type,Indicates whether the loan is an individual application or a joint application with two co-borrowers
+7,avg_cur_bal,Average current balance of all accounts
+8,bc_open_to_buy,Total open to buy on revolving bankcards.
+9,bc_util,Ratio of total current balance to high credit/credit limit for all bankcard accounts.
+10,chargeoff_within_12_mths,Number of charge-offs within 12 months
+11,collection_recovery_fee,post charge off collection fee
+12,collections_12_mths_ex_med,Number of collections in 12 months excluding medical collections
+13,delinq_2yrs,The number of 30+ days past-due incidences of delinquency in the borrower's credit file for the past 2 years
+14,delinq_amnt,The past-due amount owed for the accounts on which the borrower is now delinquent.
+15,desc,Loan description provided by the borrower
